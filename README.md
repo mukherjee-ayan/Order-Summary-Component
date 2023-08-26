@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/mukherjee-ayan/Order-Summary-Component)
-- Live Site URL: (https://mukherjee-ayan.github.io/Order-Summary-Component/)
+- Solution URL: [Solution](https://github.com/mukherjee-ayan/Order-Summary-Component)
+- Live Site URL: [Live Site](https://mukherjee-ayan.github.io/Order-Summary-Component/)
 
 ## My process
 
